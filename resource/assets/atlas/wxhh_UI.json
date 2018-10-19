@@ -1,0 +1,1095 @@
+{
+  "file": "wxhh_UI.png",
+  "frames": {
+    "0": {
+      "x": 1827,
+      "y": 462,
+      "w": 56,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 91
+    },
+    "1": {
+      "x": 364,
+      "y": 1922,
+      "w": 33,
+      "h": 90,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 33,
+      "sourceH": 91
+    },
+    "2": {
+      "x": 500,
+      "y": 1793,
+      "w": 56,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 91
+    },
+    "3": {
+      "x": 1108,
+      "y": 1187,
+      "w": 55,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 91
+    },
+    "4": {
+      "x": 1612,
+      "y": 630,
+      "w": 63,
+      "h": 90,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 63,
+      "sourceH": 91
+    },
+    "5": {
+      "x": 1231,
+      "y": 966,
+      "w": 59,
+      "h": 90,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 59,
+      "sourceH": 91
+    },
+    "6": {
+      "x": 355,
+      "y": 1830,
+      "w": 59,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 59,
+      "sourceH": 91
+    },
+    "7": {
+      "x": 581,
+      "y": 1712,
+      "w": 57,
+      "h": 89,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 57,
+      "sourceH": 91
+    },
+    "8": {
+      "x": 415,
+      "y": 1861,
+      "w": 58,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 91
+    },
+    "9": {
+      "x": 1291,
+      "y": 989,
+      "w": 57,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 91
+    },
+    "beilv_text": {
+      "x": 1281,
+      "y": 694,
+      "w": 45,
+      "h": 25,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 25
+    },
+    "bet__item_bg": {
+      "x": 822,
+      "y": 1187,
+      "w": 130,
+      "h": 103,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 130,
+      "sourceH": 103
+    },
+    "bet_item_image_1": {
+      "x": 978,
+      "y": 1389,
+      "w": 32,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 32,
+      "sourceH": 32
+    },
+    "bet_item_image_2": {
+      "x": 1331,
+      "y": 799,
+      "w": 31,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 29
+    },
+    "bet_item_image_3": {
+      "x": 722,
+      "y": 1647,
+      "w": 31,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 31,
+      "sourceH": 31
+    },
+    "bet_item_image_4": {
+      "x": 398,
+      "y": 1953,
+      "w": 30,
+      "h": 33,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 33
+    },
+    "bet_item_image_5": {
+      "x": 1985,
+      "y": 348,
+      "w": 40,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 34
+    },
+    "bet_item_textbg": {
+      "x": 989,
+      "y": 1324,
+      "w": 84,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 26
+    },
+    "btn_obtain_pwd_n": {
+      "x": 1825,
+      "y": 292,
+      "w": 154,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 58
+    },
+    "btn_obtain_pwd_s": {
+      "x": 953,
+      "y": 1187,
+      "w": 154,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 58
+    },
+    "btn_obtain_result": {
+      "x": 1672,
+      "y": 462,
+      "w": 154,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 154,
+      "sourceH": 58
+    },
+    "btncheck": {
+      "x": 634,
+      "y": 1603,
+      "w": 87,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 86
+    },
+    "btnclose": {
+      "x": 1676,
+      "y": 630,
+      "w": 67,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 66
+    },
+    "buttom_last_down": {
+      "x": 853,
+      "y": 1424,
+      "w": 113,
+      "h": 34,
+      "offX": 3,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 34
+    },
+    "buttom_winner_down": {
+      "x": 989,
+      "y": 1289,
+      "w": 113,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 115,
+      "sourceH": 34
+    },
+    "cancel_btn": {
+      "x": 1689,
+      "y": 401,
+      "w": 166,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 60
+    },
+    "checkresult_title": {
+      "x": 953,
+      "y": 1246,
+      "w": 152,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 42
+    },
+    "coin_bak": {
+      "x": 822,
+      "y": 1352,
+      "w": 199,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 199,
+      "sourceH": 36
+    },
+    "companel_2_png": {
+      "x": 1281,
+      "y": 0,
+      "w": 752,
+      "h": 291,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 752,
+      "sourceH": 291
+    },
+    "double_btn": {
+      "x": 1553,
+      "y": 542,
+      "w": 166,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 60
+    },
+    "fastsitdown": {
+      "x": 551,
+      "y": 1537,
+      "w": 157,
+      "h": 65,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 157,
+      "sourceH": 65
+    },
+    "gold_bg2_png": {
+      "x": 709,
+      "y": 1553,
+      "w": 143,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 143,
+      "sourceH": 31
+    },
+    "gold_bg5": {
+      "x": 876,
+      "y": 829,
+      "w": 536,
+      "h": 67,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 536,
+      "sourceH": 67
+    },
+    "gold_png": {
+      "x": 493,
+      "y": 1665,
+      "w": 37,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 38
+    },
+    "grxz_text": {
+      "x": 639,
+      "y": 1690,
+      "w": 83,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 26
+    },
+    "headframe_png": {
+      "x": 722,
+      "y": 1585,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "headperson_frame": {
+      "x": 722,
+      "y": 1585,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "headperson_outline": {
+      "x": 272,
+      "y": 1830,
+      "w": 82,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 117
+    },
+    "lobby_dating_touxiangkuang": {
+      "x": 1386,
+      "y": 897,
+      "w": 71,
+      "h": 73,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 71,
+      "sourceH": 73
+    },
+    "lp_all_bg": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 720,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1280,
+      "sourceH": 720
+    },
+    "lp_check_mail_send": {
+      "x": 1119,
+      "y": 1084,
+      "w": 118,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 118,
+      "sourceH": 57
+    },
+    "lp_check_mail_word": {
+      "x": 853,
+      "y": 1389,
+      "w": 124,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 34
+    },
+    "lp_chip_1": {
+      "x": 1281,
+      "y": 542,
+      "w": 135,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 118
+    },
+    "lp_chip_2": {
+      "x": 0,
+      "y": 1842,
+      "w": 135,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 118
+    },
+    "lp_chip_3": {
+      "x": 876,
+      "y": 974,
+      "w": 135,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 118
+    },
+    "lp_chip_4": {
+      "x": 686,
+      "y": 1187,
+      "w": 135,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 118
+    },
+    "lp_chip_5": {
+      "x": 1417,
+      "y": 542,
+      "w": 135,
+      "h": 118,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 118
+    },
+    "lp_chip_bg": {
+      "x": 0,
+      "y": 1665,
+      "w": 492,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 492,
+      "sourceH": 86
+    },
+    "lp_chip_dark1": {
+      "x": 1536,
+      "y": 433,
+      "w": 135,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 108
+    },
+    "lp_chip_dark2": {
+      "x": 136,
+      "y": 1842,
+      "w": 135,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 108
+    },
+    "lp_chip_dark3": {
+      "x": 1689,
+      "y": 292,
+      "w": 135,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 108
+    },
+    "lp_chip_dark4": {
+      "x": 1012,
+      "y": 974,
+      "w": 135,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 108
+    },
+    "lp_chip_dark5": {
+      "x": 686,
+      "y": 1306,
+      "w": 135,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 135,
+      "sourceH": 108
+    },
+    "lp_head_bg": {
+      "x": 1884,
+      "y": 435,
+      "w": 55,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "lp_head_frame": {
+      "x": 1608,
+      "y": 721,
+      "w": 61,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 61,
+      "sourceH": 61
+    },
+    "lp_head_outline": {
+      "x": 272,
+      "y": 1830,
+      "w": 82,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 117
+    },
+    "lp_head_setdown": {
+      "x": 1516,
+      "y": 786,
+      "w": 51,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 87
+    },
+    "lp_history_arrow": {
+      "x": 152,
+      "y": 2026,
+      "w": 13,
+      "h": 10,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 13,
+      "sourceH": 10
+    },
+    "lp_history_item": {
+      "x": 1553,
+      "y": 603,
+      "w": 333,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 333,
+      "sourceH": 26
+    },
+    "lp_history_word": {
+      "x": 1720,
+      "y": 521,
+      "w": 105,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 105,
+      "sourceH": 35
+    },
+    "lp_pop_bigbg": {
+      "x": 1281,
+      "y": 661,
+      "w": 330,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 330,
+      "sourceH": 32
+    },
+    "lp_pop_black": {
+      "x": 1458,
+      "y": 895,
+      "w": 67,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 31
+    },
+    "lp_pop_close": {
+      "x": 1238,
+      "y": 1081,
+      "w": 67,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 66
+    },
+    "lp_pop_greeb": {
+      "x": 876,
+      "y": 1158,
+      "w": 326,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 326,
+      "sourceH": 28
+    },
+    "lp_pop_history": {
+      "x": 1856,
+      "y": 393,
+      "w": 152,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 41
+    },
+    "lp_pop_red": {
+      "x": 639,
+      "y": 1717,
+      "w": 67,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 31
+    },
+    "lp_pop_rule_title": {
+      "x": 1349,
+      "y": 989,
+      "w": 76,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 76,
+      "sourceH": 42
+    },
+    "lp_pop_smallbg": {
+      "x": 0,
+      "y": 2026,
+      "w": 151,
+      "h": 5,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 151,
+      "sourceH": 5
+    },
+    "lp_rank_btn": {
+      "x": 686,
+      "y": 1476,
+      "w": 221,
+      "h": 33,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 222,
+      "sourceH": 34
+    },
+    "lp_time_bg": {
+      "x": 1413,
+      "y": 812,
+      "w": 82,
+      "h": 82,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 82
+    },
+    "lp_time_show": {
+      "x": 500,
+      "y": 1712,
+      "w": 80,
+      "h": 80,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 80
+    },
+    "panel_2": {
+      "x": 1164,
+      "y": 1187,
+      "w": 75,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 30
+    },
+    "panel_3": {
+      "x": 1720,
+      "y": 557,
+      "w": 110,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 30
+    },
+    "panel_4": {
+      "x": 876,
+      "y": 897,
+      "w": 212,
+      "h": 76,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 212,
+      "sourceH": 76
+    },
+    "panel_5": {
+      "x": 1089,
+      "y": 897,
+      "w": 204,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 204,
+      "sourceH": 68
+    },
+    "pl_four": {
+      "x": 1672,
+      "y": 433,
+      "w": 10,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 10,
+      "sourceH": 18
+    },
+    "pl_threeeight": {
+      "x": 1363,
+      "y": 799,
+      "w": 26,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 18
+    },
+    "pl_twenty": {
+      "x": 1553,
+      "y": 630,
+      "w": 22,
+      "h": 18,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 22,
+      "sourceH": 18
+    },
+    "player_item_png": {
+      "x": 1281,
+      "y": 433,
+      "w": 254,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 254,
+      "sourceH": 108
+    },
+    "plist_btn": {
+      "x": 1294,
+      "y": 897,
+      "w": 91,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 91
+    },
+    "qyzz_text": {
+      "x": 1568,
+      "y": 786,
+      "w": 83,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 26
+    },
+    "red_bg_fruit": {
+      "x": 876,
+      "y": 721,
+      "w": 454,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 454,
+      "sourceH": 107
+    },
+    "repeat_btn": {
+      "x": 686,
+      "y": 1415,
+      "w": 166,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 60
+    },
+    "select_chipvalue_bg": {
+      "x": 267,
+      "y": 1752,
+      "w": 149,
+      "h": 77,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 149,
+      "sourceH": 77
+    },
+    "self_icon_png": {
+      "x": 1980,
+      "y": 292,
+      "w": 58,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 55
+    },
+    "set_down": {
+      "x": 1148,
+      "y": 966,
+      "w": 82,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 117
+    },
+    "settle_2": {
+      "x": 1281,
+      "y": 292,
+      "w": 407,
+      "h": 140,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 407,
+      "sourceH": 140
+    },
+    "settle_3": {
+      "x": 2034,
+      "y": 0,
+      "w": 9,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 9,
+      "sourceH": 105
+    },
+    "settle_4": {
+      "x": 2034,
+      "y": 106,
+      "w": 11,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 11,
+      "sourceH": 49
+    },
+    "settle_5": {
+      "x": 0,
+      "y": 2040,
+      "w": 336,
+      "h": 4,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 336,
+      "sourceH": 4
+    },
+    "settle_6": {
+      "x": 0,
+      "y": 1537,
+      "w": 550,
+      "h": 127,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 550,
+      "sourceH": 127
+    },
+    "settle_7": {
+      "x": 1203,
+      "y": 1148,
+      "w": 90,
+      "h": 23,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 23
+    },
+    "settle_11": {
+      "x": 1825,
+      "y": 351,
+      "w": 159,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 41
+    },
+    "startBetPrompt": {
+      "x": 876,
+      "y": 1093,
+      "w": 242,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 242,
+      "sourceH": 64
+    },
+    "statis_title_bg": {
+      "x": 989,
+      "y": 1324,
+      "w": 84,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 26
+    },
+    "stopBetPrompt": {
+      "x": 0,
+      "y": 1961,
+      "w": 243,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 243,
+      "sourceH": 64
+    },
+    "switch_chip_btn": {
+      "x": 822,
+      "y": 1291,
+      "w": 166,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 166,
+      "sourceH": 60
+    },
+    "timer_bg": {
+      "x": 1331,
+      "y": 694,
+      "w": 101,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 104
+    },
+    "wxhh_card_back": {
+      "x": 551,
+      "y": 1603,
+      "w": 82,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 108
+    },
+    "wxhh_card_front": {
+      "x": 417,
+      "y": 1752,
+      "w": 82,
+      "h": 108,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 108
+    },
+    "wxhh_help": {
+      "x": 1516,
+      "y": 694,
+      "w": 91,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 91
+    },
+    "wxhh_history_bg": {
+      "x": 0,
+      "y": 721,
+      "w": 875,
+      "h": 465,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 875,
+      "sourceH": 465
+    },
+    "wxhh_ht_bg": {
+      "x": 0,
+      "y": 1187,
+      "w": 685,
+      "h": 349,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 685,
+      "sourceH": 349
+    },
+    "wxhh_playerlist_panel_png": {
+      "x": 0,
+      "y": 721,
+      "w": 875,
+      "h": 465,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 875,
+      "sourceH": 465
+    },
+    "wxhh_title": {
+      "x": 0,
+      "y": 1752,
+      "w": 266,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 266,
+      "sourceH": 89
+    },
+    "wxhh_title_playerlist_png": {
+      "x": 709,
+      "y": 1510,
+      "w": 152,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 42
+    },
+    "wxhh_top_btn": {
+      "x": 272,
+      "y": 1948,
+      "w": 91,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 91
+    },
+    "xuweiyidai": {
+      "x": 1433,
+      "y": 694,
+      "w": 82,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 117
+    },
+    "xuweiyidaibg": {
+      "x": 1433,
+      "y": 694,
+      "w": 82,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 117
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+		"engineVersion": "5.2.4",
+		"compilerVersion": "5.2.4",
+		"template": {},
+		"target": {
+				"current": "web"
+		},
+		"eui": {
+				"exmlRoot": [
+						"resource/eui_skins"
+				],
+				"themes": [
+						"resource/default.thm.json"
+				],
+				"exmlPublishPolicy": "commonjs"
+		},
+		"modules": [
+				{
+						"name": "egret"
+				},
+				{
+						"name": "eui"
+				},
+				{
+						"name": "assetsmanager"
+				},
+				{
+						"name": "tween"
+				},
+				{
+						"name": "dragonBones"
+				},
+				{
+						"name": "socket"
+				},
+				{
+						"name": "egretia-sdk"
+				},
+				{
+						"name": "game"
+				},
+				{
+						"name": "egret-facebook"
+				},
+				{
+						"name": "promise"
+				},
+				{
+						"name": "protobuf-library",
+						"path": "protobuf/library"
+				},
+				{
+						"name": "protobuf-bundles",
+						"path": "protobuf/bundles"
+				}
+		]
+}

@@ -1,0 +1,95 @@
+{
+  "file": "login.png",
+  "frames": {
+    "login_bg1": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 720,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1280,
+      "sourceH": 720
+    },
+    "login_bg2": {
+      "x": 0,
+      "y": 721,
+      "w": 1136,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 640
+    },
+    "login_dian": {
+      "x": 1281,
+      "y": 412,
+      "w": 30,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 30
+    },
+    "login_gg": {
+      "x": 0,
+      "y": 1362,
+      "w": 1136,
+      "h": 640,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1136,
+      "sourceH": 640
+    },
+    "login_logo": {
+      "x": 1281,
+      "y": 0,
+      "w": 434,
+      "h": 243,
+      "offX": 8,
+      "offY": 3,
+      "sourceW": 449,
+      "sourceH": 249
+    },
+    "login_ok": {
+      "x": 1716,
+      "y": 0,
+      "w": 24,
+      "h": 22,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 24,
+      "sourceH": 22
+    },
+    "login_okbar": {
+      "x": 1281,
+      "y": 369,
+      "w": 289,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 289,
+      "sourceH": 42
+    },
+    "login_start": {
+      "x": 1281,
+      "y": 244,
+      "w": 335,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 124
+    },
+    "login_tiao": {
+      "x": 0,
+      "y": 2003,
+      "w": 924,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 924,
+      "sourceH": 32
+    }
+  }
+}

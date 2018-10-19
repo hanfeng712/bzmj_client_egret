@@ -1,0 +1,15 @@
+{"file":"chips.png","frames":{
+".":{"x":20,"y":118,"w":8,"h":8,"offX":0,"offY":16,"sourceW":9,"sourceH":28},
+",":{"x":20,"y":104,"w":8,"h":12,"offX":0,"offY":16,"sourceW":8,"sourceH":28},
+"K":{"x":26,"y":1,"w":22,"h":24,"offX":0,"offY":0,"sourceW":22,"sourceH":28},
+"M":{"x":1,"y":1,"w":23,"h":24,"offX":0,"offY":0,"sourceW":23,"sourceH":28},
+"0":{"x":39,"y":53,"w":17,"h":24,"offX":0,"offY":0,"sourceW":17,"sourceH":28},
+"1":{"x":50,"y":1,"w":13,"h":24,"offX":0,"offY":0,"sourceW":13,"sourceH":28},
+"2":{"x":1,"y":78,"w":17,"h":24,"offX":0,"offY":0,"sourceW":17,"sourceH":28},
+"3":{"x":41,"y":27,"w":17,"h":24,"offX":0,"offY":0,"sourceW":17,"sourceH":28},
+"4":{"x":1,"y":27,"w":19,"h":23,"offX":0,"offY":1,"sourceW":19,"sourceH":28},
+"5":{"x":20,"y":79,"w":17,"h":23,"offX":0,"offY":1,"sourceW":17,"sourceH":28},
+"6":{"x":22,"y":27,"w":17,"h":24,"offX":0,"offY":0,"sourceW":17,"sourceH":28},
+"7":{"x":1,"y":104,"w":17,"h":23,"offX":0,"offY":1,"sourceW":17,"sourceH":28},
+"8":{"x":1,"y":52,"w":17,"h":24,"offX":0,"offY":0,"sourceW":17,"sourceH":28},
+"9":{"x":20,"y":53,"w":17,"h":24,"offX":0,"offY":0,"sourceW":17,"sourceH":28}}}

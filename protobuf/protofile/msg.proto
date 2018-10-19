@@ -1,0 +1,29 @@
+syntax = "proto2";
+package rpc;
+message Request{
+	required string Method = 1;
+	required bytes Serialized_request = 2;
+}
+/***************详细详细内容***********************************************/
+message CS_BetMsg{
+}
+message SC_BetMsg{
+}
+message CS_LoginMsg {
+	required string UserName = 1;
+	required string UserPass = 2;
+}
+message SC_LoginMsg {
+	required uint64 Uid = 1;
+}
+message CS_PingMsg {
+}
+message SC_PingMsg {
+}
+message RpcErrorResponse{
+	required string Method = 1;
+	required string Text = 2;
+}
+message SyncError{
+	required string Text = 2;
+}
